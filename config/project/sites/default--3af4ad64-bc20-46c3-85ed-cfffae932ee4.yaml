@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: craft-project
+primary: true
+siteGroup: 89a22d2a-d976-4dba-9195-28a7d0af6d0c # craft-project
+sortOrder: 1

@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: startPage
+name: Startpage
+propagationMethod: all
+siteSettings:
+  3af4ad64-bc20-46c3-85ed-cfffae932ee4: # craft-project
+    enabledByDefault: true
+    hasUrls: true
+    template: startpage/_entry
+    uriFormat: __home__
+type: single
