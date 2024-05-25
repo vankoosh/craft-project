@@ -1,20 +1,36 @@
-dateModified: 1693693917
+dateModified: 1716656639
 email:
   fromEmail: vankoosh@gmail.com
   fromName: craft-project
   transportType: craft\mail\transportadapters\Sendmail
+graphql:
+  publicToken:
+    enabled: false
+    expiryDate: null
 meta:
   __names__:
     3af4ad64-bc20-46c3-85ed-cfffae932ee4: craft-project # craft-project
-    7a5fa9f8-7ca4-4743-a259-959cfca31f19: Common # Common
+    24cd8ae3-cc29-4383-af12-83dbda070bca: Simple # Simple
     055cc429-a00a-404a-b75b-891f9429b20a: Startpage # Startpage
+    67b4333a-e587-4ee8-bb23-55ffd78f9943: Richtext # Richtext
     89a22d2a-d976-4dba-9195-28a7d0af6d0c: craft-project # craft-project
+    f76ca861-8860-462f-bd3d-e5e28fe2bb90: Richtext # Richtext
+    f573c59d-dc8a-469a-bd49-9fcfc9125f38: Richtext # Richtext
     ff5d48e7-3d61-4ab9-8a35-28c108389107: Startpage # Startpage
+plugins:
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
+  cp-css:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.0.0
 system:
   edition: solo
   live: true
   name: craft-project
-  schemaVersion: 4.5.3.0
+  schemaVersion: 5.0.0.20
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false

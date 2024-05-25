@@ -1,7 +1,19 @@
 defaultPlacement: end
 enableVersioning: true
+entryTypes:
+  - 055cc429-a00a-404a-b75b-891f9429b20a # Startpage
 handle: startPage
+maxAuthors: 1
 name: Startpage
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
 propagationMethod: all
 siteSettings:
   3af4ad64-bc20-46c3-85ed-cfffae932ee4: # craft-project

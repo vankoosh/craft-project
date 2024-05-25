@@ -1,10 +1,11 @@
 {
   "devDependencies": {
+    "browser-sync": "^2.29.3",
     "concurrently": "^8.2.0",
+    "gulp": "^4.0.2",
     "http-server": "^14.1.1"
   },
   "scripts": {
-    "start": "npm run open",
-    "open": "concurrently \"http-server -a localhost -p 1234\" \"open http://localhost:1234/build\""
+    "start": "gulp"
   }
 }
