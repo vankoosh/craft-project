@@ -1,4 +1,4 @@
-dateModified: 1716656639
+dateModified: 1733667452
 email:
   fromEmail: vankoosh@gmail.com
   fromName: craft-project
@@ -30,7 +30,7 @@ system:
   edition: solo
   live: true
   name: craft-project
-  schemaVersion: 5.0.0.20
+  schemaVersion: 5.5.0.0
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false

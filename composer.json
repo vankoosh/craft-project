@@ -1,6 +1,6 @@
 {
   "require": {
-    "craftcms/ckeditor": "4.0.6",
+    "craftcms/ckeditor": "4.4.0",
     "craftcms/cms": "^5.0.0",
     "doublesecretagency/craft-cpcss": "3.0.0",
     "vlucas/phpdotenv": "^5.4.0"
